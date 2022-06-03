@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">AeroApp</string>
+    <string name="selected_item">Selected item:</string>
+    <string-array name="spiner">
+        <item>    Moneda</item>
+        <item>MXN</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>CNY</item>
+        <item>RUB</item>
+    </string-array>
+
+    <string name="selected_item1">Selected item:</string>
+    <string-array name="spiner1">
+        <item>         Tipo de Viaje</item>
+        <item>Ida</item>
+        <item>Vuelta</item>
+        <item>Ida y Vuelta</item>
+    </string-array>
+
+    <string name="selected_item2">Selected item:</string>
+    <string-array name="spiner2">
+        <item>    Personas</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <string name="selected_item3">Selected item:</string>
+    <string-array name="spiner3">
+        <item>    Tipo de clase</item>
+        <item>Primera Clase</item>
+        <item>Turista</item>
+        <item>Ejecutiva</item>
+        <item>Premiun</item>
+        <item>Media</item>
+    </string-array>
+
+    <string name="selected_item4">Selected item:</string>
+    <string-array name="spiner4">
+        <item>             Aciento</item>
+        <item>A1</item>
+        <item>A2</item>
+        <item>A3</item>
+        <item>B1</item>
+        <item>B2</item>
+        <item>B3</item>
+        <item>C1</item>
+        <item>C2</item>
+        <item>C3</item>
+    </string-array>
+</resources>
